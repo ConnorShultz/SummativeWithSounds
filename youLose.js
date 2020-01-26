@@ -7,6 +7,6 @@ function Lose() {
     text("YOU LOOSE!", 125, 100);
     text("Enemy scored 5 goals", 0, 200);
     textSize(20);
-    text("Press play (top left of screen) to play again", 60, 370);
+    text("GAME OVER", 190, 370);
   }
 }
